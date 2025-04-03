@@ -10,5 +10,5 @@ int main()
  printf("The difference is %d",a-b);
  printf("The product is %d",a*b);
  printf("The quotiont is %d",a/b);
- return 0;
+ printf("SCM");
 }
