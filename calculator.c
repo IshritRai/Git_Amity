@@ -5,7 +5,8 @@ int main()
  int a,b;
  printf("Enter two numbers: );
  scanf("%d%d",&a,&b);
- 
+
+ printf("~Operations~/n");
  printf("The sum is %d",a+b);
  printf("The difference is %d",a-b);
  printf("The product is %d",a*b);
